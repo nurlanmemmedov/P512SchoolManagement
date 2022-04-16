@@ -12,5 +12,6 @@ namespace Domain.Models
         public string Name { get; set; }
         public string Surname { get; set; }
         public byte Age { get; set; }
+        public string ClassName { get; set; }
     }
 }

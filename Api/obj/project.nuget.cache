@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgvM0Nujr7c+sQfM5ZElu4lKfQLXWiWHUnTHZcn8AsD0cGvXyJkdOdSV9rhjdI6jUapCo0O7t4QacQrTCzn2Vw==",
+  "dgSpecHash": "RGAhU7p3s2k/08PyboaXXcos+oRtk0H3qnUSWL5rUsfhgk8hM0qK7ZlR5zzMlXJkWa37yiWCn5Z0yeo/r37rbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nmammadov\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\nmammadov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

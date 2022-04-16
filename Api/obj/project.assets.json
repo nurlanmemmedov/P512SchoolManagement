@@ -6093,11 +6093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Api\\Api.csproj",
+      "projectPath": "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\nmammadov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Api\\obj\\",
+      "outputPath": "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6118,11 +6118,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Data\\Data.csproj"
+            "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Data\\Data.csproj"
             },
-            "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\nmammadov\\Desktop\\SchoolManagement\\Domain\\Domain.csproj"
+            "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\nmammadov\\Desktop\\P512SchoolManagement\\Domain\\Domain.csproj"
             }
           }
         }
